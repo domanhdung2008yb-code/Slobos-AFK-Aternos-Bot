@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "coincard",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "1p9w.top",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "88888888"
     },
     "anti-afk": {
       "enabled": true,
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 31,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Mua kit tại l mẹ mày",
+        "Gửi cho t ảnh nude đi",
+        "Chấp 10 thằng như m"
       ]
     },
     "chat-log": true,
@@ -45,7 +45,7 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
+      "radius": 20,
       "speed": 3000
     },
     "look-around": {
